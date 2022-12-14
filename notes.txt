@@ -1,0 +1,65 @@
+Why git?
+    -version control system (shows changes made over time)
+    -collaborate with other programmers
+        -using other people's codes, open source software
+        -in your teams, hobby projects, work projects 
+            -"live coding" code merging tool
+            - being the rookie on the team, get your bearings and then contributing
+        
+        - githubs are like a portfolio/resume
+        - getting other peoples code
+        - contributing your own code 
+
+commands:
+    git status: takes no actions so it wont mess anything up
+        you can run this anywhere inside the git repo 
+    git init
+        only run once at the beginning per repo
+        creates a new local git repo 
+    git add
+        git add <filename>
+    git commit -m "<commit msg>"
+    git push
+
+    __repr__ on requests
+    -rest client
+    -data classes
+    -date times
+    -git pull r
+
+    0) git branch -b submit -1
+
+    1) git add
+
+    2) git commit -m "message"
+
+    3. git push 
+
+git config --global user.email "stephenduval10@gmail.com"
+git config --global user.name "sduval96"
+
+    
+
+
+terms:
+    repository:
+        local - 
+        remote -
+    root:
+        base of where you are building out your repository or project
+
+
+    staging / track: 
+    staging:
+        move a file into green from red
+    track: whether or not to keep track of modifications to the filename
+    
+    file:
+        you only have to track it once to track it
+
+    git credential manager (GCM)
+        -its going to cache our username and password
+
+    git vs. github
+        git: version control cli 
+        github - a way to admin repos for sharing
