@@ -19,6 +19,21 @@ commands:
     git add
         git add <filename>
     git commit -m "<commit msg>"
+    git push
+
+    __repr__ on requests
+    -rest client
+    -data classes
+    -date times
+    -git pull r
+
+    0) git branch -b submit -1
+
+    1) git add
+
+    2) git commit -m "message"
+
+    3. git push 
 
 git config --global user.email "stephenduval10@gmail.com"
 git config --global user.name "sduval96"
